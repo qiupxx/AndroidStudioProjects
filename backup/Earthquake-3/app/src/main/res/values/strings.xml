@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EarthquakeFeed</string>
+    <string name="quake_feed_url">http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom</string>
+</resources>

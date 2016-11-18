@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Earthquake</string>
+    <string name="quake_feed_url">http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom</string>
+    <string name="menu_update">Refresh Earthquakes</string>
+    <string name="auto_update_propmt">Auto Update?</string>
+    <string name="update_freq_prompt">Update Frequency</string>
+    <string name="min_quake_mag_prompt">Minimum Quake</string>
+    <string name="menu_preferences">Preferences</string>
+    <string name="preferences_activity">Earthquake Preferences</string>
+</resources>

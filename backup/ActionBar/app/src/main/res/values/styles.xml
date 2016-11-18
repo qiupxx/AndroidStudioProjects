@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <!-- Customize your theme here. -->
+        <!-- ActionBar层叠在Activity screen 覆盖内容
+        <item name="android:windowActionBarOverlay">true</item>
+        -->
+    </style>
+
+</resources>

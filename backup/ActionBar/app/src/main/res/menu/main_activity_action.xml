@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@android:drawable/ic_menu_search"
+        android:showAsAction="ifRoom|withText|collapseActionView"
+        android:title="@string/ic_action_search" />
+    <item
+        android:id="@+id/ic_compose"
+        android:icon="@android:drawable/ic_menu_crop"
+        android:showAsAction="ifRoom"
+        android:title="@string/ic_action_crop" />
+    <item
+        android:id="@+id/ic_share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:showAsAction="ifRoom"
+        android:title="@string/ic_share"
+        android:actionProviderClass="android.widget.ShareActionProvider" />
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">todoitems</string>
+    <string name="addItemContentDescription">New To Do Item</string>
+    <string name="addItemHint">New To Do Item</string>
+</resources>

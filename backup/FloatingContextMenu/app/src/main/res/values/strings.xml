@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="new_game">edit</string>
+    <string name="delete">delete</string>
+    <string-array name="todoList">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+    </string-array>
+</resources>

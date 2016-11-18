@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationTab</string>
+    <string name="artist_fragment">Hello artist fragment</string>
+    <string name="album_fragment">Hello album fragment</string>
+</resources>

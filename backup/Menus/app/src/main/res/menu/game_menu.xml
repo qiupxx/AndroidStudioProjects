@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/new_game"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/item1"
+        app:showAsAction="ifRoom|always">
+        <!-- submenu -->
+        <menu>
+            <item
+                android:id="@+id/create_new"
+                android:title="@string/create_new" />
+            <item
+                android:id="@+id/open"
+                android:title="@string/open" />
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/help"
+        android:title="@string/item2"
+        app:showAsAction="ifRoom" />
+</menu>
